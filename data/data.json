@@ -1,0 +1,56 @@
+[
+    {
+      "id":1 ,
+      "index": 0,
+      "fee": "$300",
+      "picture": "https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw=w480-h960-rw",
+      "subs": 3.8,
+      "name": "HTML",
+      "details": "HTML or Hypertext Markup Language is necessary for designing the front-end of a website using a markup language. HTML is a combination of markup language and hypertext. Hypertext defines the links between two or more pages. The markup language is necessary for defining the text documentation within the tag, which in turn defines the web page’s structure. HTML is used for building the foundation of your website. In contrast, CSS creates the page layout, style, fonts, and colors. Knowing HTML, CSS, and JavaScript is essential to become a front-end web developer."
+    },
+    {
+      "id":2 ,
+      "index": 1,
+      "fee": "$400",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png",
+      "subs": 2.9,
+      "name": "CSS",
+      "details": "Cascading Style Sheets or CSS is a simply designed programming language that helps to simplify the process of making web pages presentable. With CSS, you can apply a style to web pages. Moreover, you can use CSS independently without relying on HTML that makes up each web page. CSS also helps you to redesign websites very quickly. Without the use of extensive coding, CSS supports different-looking web pages. The only thing that changes is the content."
+    },
+    {
+      "id":3 ,
+      "index": 2,
+      "fee": "$500",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png",
+      "subs": 2.5,
+      "name": "JAVA-SCRIPT",
+      "details": "You know that JavaScript is essential for front-end development. But, the possibilities of JavaScript are endless. It is one of the most multifaceted programming languages that helps you develop web, desktop, and mobile apps. If you want to become a front-end developer, JavaScript is a prerequisite. With JavaScript, you can make the site interactive for the website user. The programming language enhances the functionality of a website for running web-based software and cool games. By using these graphical methods, the complex client side is represented. For a seamless frontend application, the below technologies are recommended."
+    },
+    {
+      "id": 4,
+      "index": 3,
+      "fee": "$600",
+      "picture": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png",
+      "subs": 3.0,
+      "name": "REACT JS",
+      "details": "React JS, better known as React, is an open-source JavaScript front-end library. It creates interactive and dynamic applications and enhances UX/UI design. React JS is responsible only for the enhancement of the view layer. Check this image to know uses of React JS.The web tool has built-in templates that make it easier for front-end developers to create UI views quickly. It provides less navigation and fast loading, ensuring an excellent user experience. Angular applications are not browser-specific; hence there are no browser-specific constraints."
+    },
+    {
+      "id": 5,
+      "index": 4,
+      "fee": "$555",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+      "subs": 3.6,
+      "name": "PYTHON",
+      "details": "Python deserves to be included in the best back-end web development technologies available. The technology delivers multiple standard libraries that simplify the process of web development. Its high-level security and these other 7 reasons make Python very popular as a back-end server scripting language. All thanks to the Open-Source Web Application Security Project (OWASP), coders and web designers can build hardened versions of the web and mobile apps that are protected from attacks and help enterprises to build a secure ecosystem."
+    },
+    {
+      "id":6 ,
+      "index": 5,
+      "fee": "$650",
+      "picture": "https://pngimg.com/uploads/php/php_PNG10.png",
+      "subs": 2.4,
+      "name": "PHP",
+      "details": "PHP is a server-side technology and general-purpose scripting language that is easy to use and amend information in the databases. The inclusion of multiple modern frameworks, robust code base, massive community, and easy deployment adds excellent value to this web technology. Read this detailed comparison of the top PHP frameworks to get a quick overview of the framework that might fit your requirements.The technology is cost-effective since it is in a free and open-source community. PHP also simplifies programming by providing object-relational mapping (ORM) systems. The scripting technology also automates development tasks like URL mapping, session management, and authentication."
+    }
+  ]
